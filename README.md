@@ -1,2 +1,2 @@
-# app_reconocimiento_rostropater
-Este es un proyecto de realización de una aplicación para identificación de rostro paterno o materno desconocido.
+# Aplicación para análisis de datos de Montañas
+Este es un proyecto de desarrollo de una aplicación para análisis de datos de Montañas.

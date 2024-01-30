@@ -1,0 +1,32 @@
+
+Micromanual de instrucciones:
+
+1-
+
+C:\Users\Mariano>cd C:\Users\Mariano\Documents\GitHub\moun_CD
+
+C:\Users\Mariano>cd C:\Users\Mariano\Documents\GitHub\moun_CD\main
+
+env\Scripts\activate.bat
+
+venv\Scripts\activate
+
+2-
+ python server.py  
+
+ node server.js 
+
+ python -m pip freeze > requirements.txt
+
+ pip install -r requirements.txt
+
+ pip install Flask
+
+flask run                 
+
+
+python -m venv venv  
+
+py -3 -m venv .venv    
+
+python -m venv venv
